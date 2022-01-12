@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0c9dccd9.chunk.css",
+    "main.js": "/static/js/main.165794b7.chunk.js",
+    "main.js.map": "/static/js/main.165794b7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e447d1d4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e447d1d4.js.map",
+    "static/css/2.31461e4f.chunk.css": "/static/css/2.31461e4f.chunk.css",
+    "static/js/2.65acf555.chunk.js": "/static/js/2.65acf555.chunk.js",
+    "static/js/2.65acf555.chunk.js.map": "/static/js/2.65acf555.chunk.js.map",
+    "static/js/3.a26bab59.chunk.js": "/static/js/3.a26bab59.chunk.js",
+    "static/js/3.a26bab59.chunk.js.map": "/static/js/3.a26bab59.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.0c9dccd9.chunk.css.map": "/static/css/main.0c9dccd9.chunk.css.map",
+    "static/js/2.65acf555.chunk.js.LICENSE.txt": "/static/js/2.65acf555.chunk.js.LICENSE.txt",
+    "static/media/Apps.css": "/static/media/Background-Apps.51e7dbca.jpg",
+    "static/media/Games.css": "/static/media/Background-Games.4cd994fc.jpg",
+    "static/media/Websites.css": "/static/media/Background-Websites.abdf179c.jpg",
+    "static/media/CroxiShop.ef4f0906.PNG": "/static/media/CroxiShop.ef4f0906.PNG",
+    "static/media/CroxtonApps.1602b3e3.PNG": "/static/media/CroxtonApps.1602b3e3.PNG",
+    "static/media/CroxtonGames.e037de5b.PNG": "/static/media/CroxtonGames.e037de5b.PNG",
+    "static/media/CroxtonWebsites.ee0cf265.PNG": "/static/media/CroxtonWebsites.ee0cf265.PNG",
+    "static/media/FallingTiles.fb05b960.PNG": "/static/media/FallingTiles.fb05b960.PNG",
+    "static/media/GamingPortal.6a9e1bfa.PNG": "/static/media/GamingPortal.6a9e1bfa.PNG",
+    "static/media/Logo.73bf5082.png": "/static/media/Logo.73bf5082.png",
+    "static/media/MemoryGame.c8dbeac0.PNG": "/static/media/MemoryGame.c8dbeac0.PNG",
+    "static/media/Polish.dc1903a5.jpg": "/static/media/Polish.dc1903a5.jpg",
+    "static/media/RoboFriends.70566777.PNG": "/static/media/RoboFriends.70566777.PNG",
+    "static/media/SmartBrain.98698584.PNG": "/static/media/SmartBrain.98698584.PNG",
+    "static/media/SuperCalculator.bbd4ab03.PNG": "/static/media/SuperCalculator.bbd4ab03.PNG",
+    "static/media/WeatherApp.7e186d8b.PNG": "/static/media/WeatherApp.7e186d8b.PNG",
+    "static/media/Yemen.23b093f9.jpg": "/static/media/Yemen.23b093f9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e447d1d4.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.65acf555.chunk.js",
+    "static/css/main.0c9dccd9.chunk.css",
+    "static/js/main.165794b7.chunk.js"
+  ]
+}
