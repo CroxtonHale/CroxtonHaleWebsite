@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/CroxtonHaleWebsite/static/css/main.4e77f486.chunk.css",
-    "main.js": "/CroxtonHaleWebsite/static/js/main.399472fd.chunk.js",
-    "main.js.map": "/CroxtonHaleWebsite/static/js/main.399472fd.chunk.js.map",
+    "main.css": "/CroxtonHaleWebsite/static/css/main.cfe29b08.chunk.css",
+    "main.js": "/CroxtonHaleWebsite/static/js/main.e41664da.chunk.js",
+    "main.js.map": "/CroxtonHaleWebsite/static/js/main.e41664da.chunk.js.map",
     "runtime-main.js": "/CroxtonHaleWebsite/static/js/runtime-main.47f694fe.js",
     "runtime-main.js.map": "/CroxtonHaleWebsite/static/js/runtime-main.47f694fe.js.map",
     "static/css/2.31461e4f.chunk.css": "/CroxtonHaleWebsite/static/css/2.31461e4f.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.a26bab59.chunk.js.map": "/CroxtonHaleWebsite/static/js/3.a26bab59.chunk.js.map",
     "index.html": "/CroxtonHaleWebsite/index.html",
     "static/css/2.31461e4f.chunk.css.map": "/CroxtonHaleWebsite/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.4e77f486.chunk.css.map": "/CroxtonHaleWebsite/static/css/main.4e77f486.chunk.css.map",
+    "static/css/main.cfe29b08.chunk.css.map": "/CroxtonHaleWebsite/static/css/main.cfe29b08.chunk.css.map",
     "static/js/2.65acf555.chunk.js.LICENSE.txt": "/CroxtonHaleWebsite/static/js/2.65acf555.chunk.js.LICENSE.txt",
     "static/media/Apps.css": "/CroxtonHaleWebsite/static/media/Background-Apps.51e7dbca.jpg",
     "static/media/Games.css": "/CroxtonHaleWebsite/static/media/Background-Games.4cd994fc.jpg",
@@ -36,7 +36,7 @@
     "static/js/runtime-main.47f694fe.js",
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.65acf555.chunk.js",
-    "static/css/main.4e77f486.chunk.css",
-    "static/js/main.399472fd.chunk.js"
+    "static/css/main.cfe29b08.chunk.css",
+    "static/js/main.e41664da.chunk.js"
   ]
 }
